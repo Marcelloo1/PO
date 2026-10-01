@@ -1,2 +1,3 @@
 Marcel Gonder 
-Szkola techni Schools
+Szkola techni Schools 
+Lubie programowac
